@@ -7,9 +7,9 @@
             // Cada tipo de variável guarda um tipo de dado diferente
 
             string nome = "thalis";   // texto
-            int idade = 20;           // número inteiro
+            int idade = 28;           // número inteiro
             double altura = 1.75;     // número com casas decimais
-            char sexo = 'M';          // um único caractere (usa aspas simples)
+            char sexo = 'F';          // um único caractere (usa aspas simples)
             bool estudante = true;    // verdadeiro (true) ou falso (false)
 
             // O $ antes das aspas permite colocar variáveis dentro do texto com { }
